@@ -15,7 +15,7 @@ C:/Users/micha/OneDrive/Pulpit/Aktualna gra/Horror-Game/La Manga Horror
 -logFile
 Logs/AssetImportWorker1.log
 -srvPort
-63023
+64727
 Successfully changed project path to: C:/Users/micha/OneDrive/Pulpit/Aktualna gra/Horror-Game/La Manga Horror
 C:/Users/micha/OneDrive/Pulpit/Aktualna gra/Horror-Game/La Manga Horror
 [UnityMemory] Configuration Parameters - Can be set up in boot.config
@@ -47,11 +47,11 @@ C:/Users/micha/OneDrive/Pulpit/Aktualna gra/Horror-Game/La Manga Horror
     "memorysetup-temp-allocator-size-cloud-worker=32768"
     "memorysetup-temp-allocator-size-gi-baking-worker=262144"
     "memorysetup-temp-allocator-size-gfx=262144"
-Player connection [19668] Host "[IP] 192.168.0.164 [Port] 0 [Flags] 2 [Guid] 1535624041 [EditorId] 1535624041 [Version] 1048832 [Id] WindowsEditor(7,DESKTOP-IJSLMPQ) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined multi-casting on [225.0.0.222:54997]...
+Player connection [24044] Host "[IP] 192.168.0.164 [Port] 0 [Flags] 2 [Guid] 332161766 [EditorId] 332161766 [Version] 1048832 [Id] WindowsEditor(7,DESKTOP-IJSLMPQ) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined multi-casting on [225.0.0.222:54997]...
 
-Player connection [19668] Host "[IP] 192.168.0.164 [Port] 0 [Flags] 2 [Guid] 1535624041 [EditorId] 1535624041 [Version] 1048832 [Id] WindowsEditor(7,DESKTOP-IJSLMPQ) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined alternative multi-casting on [225.0.0.222:34997]...
+Player connection [24044] Host "[IP] 192.168.0.164 [Port] 0 [Flags] 2 [Guid] 332161766 [EditorId] 332161766 [Version] 1048832 [Id] WindowsEditor(7,DESKTOP-IJSLMPQ) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined alternative multi-casting on [225.0.0.222:34997]...
 
-Refreshing native plugins compatible for Editor in 118.65 ms, found 3 plugins.
+Refreshing native plugins compatible for Editor in 120.30 ms, found 3 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Initialize engine version: 2021.3.21f1 (1b156197d683)
 [Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2021.3.21f1/Editor/Data/Resources/UnitySubsystems
@@ -67,89 +67,89 @@ Initialize mono
 Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2021.3.21f1/Editor/Data/Managed'
 Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2021.3.21f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
 Mono config path = 'C:/Program Files/Unity/Hub/Editor/2021.3.21f1/Editor/Data/MonoBleedingEdge/etc'
-Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56360
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56284
 Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
 Register platform support module: C:/Program Files/Unity/Hub/Editor/2021.3.21f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
-Registered in 0.008866 seconds.
+Registered in 0.009415 seconds.
 Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 115.25 ms, found 3 plugins.
+Refreshing native plugins compatible for Editor in 104.53 ms, found 3 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  0.908 seconds
+- Completed reload, in  0.745 seconds
 Domain Reload Profiling:
-	ReloadAssembly (908ms)
-		BeginReloadAssembly (98ms)
+	ReloadAssembly (746ms)
+		BeginReloadAssembly (99ms)
 			ExecutionOrderSort (0ms)
 			DisableScriptedObjects (0ms)
 			BackupInstance (0ms)
 			ReleaseScriptingObjects (0ms)
 			CreateAndSetChildDomain (1ms)
-		EndReloadAssembly (687ms)
-			LoadAssemblies (95ms)
+		EndReloadAssembly (532ms)
+			LoadAssemblies (96ms)
 			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (131ms)
+			SetupTypeCache (129ms)
 			ReleaseScriptCaches (0ms)
-			RebuildScriptCaches (33ms)
-			SetupLoadedEditorAssemblies (463ms)
+			RebuildScriptCaches (31ms)
+			SetupLoadedEditorAssemblies (316ms)
 				LogAssemblyErrors (0ms)
-				InitializePlatformSupportModulesInManaged (11ms)
+				InitializePlatformSupportModulesInManaged (9ms)
 				SetLoadedEditorAssemblies (0ms)
-				RefreshPlugins (115ms)
+				RefreshPlugins (105ms)
 				BeforeProcessingInitializeOnLoad (1ms)
-				ProcessInitializeOnLoadAttributes (228ms)
-				ProcessInitializeOnLoadMethodAttributes (107ms)
+				ProcessInitializeOnLoadAttributes (151ms)
+				ProcessInitializeOnLoadMethodAttributes (50ms)
 				AfterProcessingInitializeOnLoad (0ms)
 				EditorAssembliesLoaded (0ms)
 			ExecutionOrderSort2 (0ms)
 			AwakeInstancesAfterBackupRestoration (0ms)
 Platform modules already initialized, skipping
 Registering precompiled user dll's ...
-Registered in 0.010739 seconds.
+Registered in 0.007883 seconds.
 Begin MonoManager ReloadAssembly
 Symbol file LoadedFromMemory doesn't match image C:\Users\micha\OneDrive\Pulpit\Aktualna gra\Horror-Game\La Manga Horror\Library\PackageCache\com.unity.visualscripting@1.8.0\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
 Symbol file LoadedFromMemory doesn't match image C:\Users\micha\OneDrive\Pulpit\Aktualna gra\Horror-Game\La Manga Horror\Library\PackageCache\com.unity.visualscripting@1.8.0\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
 Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 152.74 ms, found 3 plugins.
+Refreshing native plugins compatible for Editor in 112.67 ms, found 3 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  2.537 seconds
+- Completed reload, in  1.402 seconds
 Domain Reload Profiling:
-	ReloadAssembly (2539ms)
-		BeginReloadAssembly (284ms)
+	ReloadAssembly (1402ms)
+		BeginReloadAssembly (137ms)
 			ExecutionOrderSort (0ms)
-			DisableScriptedObjects (22ms)
+			DisableScriptedObjects (6ms)
 			BackupInstance (0ms)
 			ReleaseScriptingObjects (0ms)
-			CreateAndSetChildDomain (51ms)
-		EndReloadAssembly (2017ms)
-			LoadAssemblies (197ms)
+			CreateAndSetChildDomain (21ms)
+		EndReloadAssembly (1121ms)
+			LoadAssemblies (114ms)
 			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (419ms)
+			SetupTypeCache (312ms)
 			ReleaseScriptCaches (1ms)
-			RebuildScriptCaches (99ms)
-			SetupLoadedEditorAssemblies (1292ms)
+			RebuildScriptCaches (65ms)
+			SetupLoadedEditorAssemblies (595ms)
 				LogAssemblyErrors (0ms)
 				InitializePlatformSupportModulesInManaged (6ms)
 				SetLoadedEditorAssemblies (0ms)
-				RefreshPlugins (153ms)
-				BeforeProcessingInitializeOnLoad (162ms)
-				ProcessInitializeOnLoadAttributes (805ms)
-				ProcessInitializeOnLoadMethodAttributes (93ms)
-				AfterProcessingInitializeOnLoad (71ms)
-				EditorAssembliesLoaded (1ms)
+				RefreshPlugins (113ms)
+				BeforeProcessingInitializeOnLoad (122ms)
+				ProcessInitializeOnLoadAttributes (326ms)
+				ProcessInitializeOnLoadMethodAttributes (16ms)
+				AfterProcessingInitializeOnLoad (12ms)
+				EditorAssembliesLoaded (0ms)
 			ExecutionOrderSort2 (0ms)
-			AwakeInstancesAfterBackupRestoration (16ms)
+			AwakeInstancesAfterBackupRestoration (7ms)
 Platform modules already initialized, skipping
 ========================================================================
 Worker process is ready to serve import requests
-Launched and connected shader compiler UnityShaderCompiler.exe after 0.10 seconds
-Refreshing native plugins compatible for Editor in 0.84 ms, found 3 plugins.
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.05 seconds
+Refreshing native plugins compatible for Editor in 0.67 ms, found 3 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Unloading 3830 Unused Serialized files (Serialized files now loaded: 0)
 Unloading 27 unused Assets / (141.6 KB). Loaded Objects now: 4320.
-Memory consumption went from 180.7 MB to 180.6 MB.
-Total: 7.494400 ms (FindLiveObjects: 3.182500 ms CreateObjectMapping: 0.378800 ms MarkObjects: 3.782600 ms  DeleteObjects: 0.149500 ms)
+Memory consumption went from 180.7 MB to 180.5 MB.
+Total: 3.366300 ms (FindLiveObjects: 0.306400 ms CreateObjectMapping: 0.218700 ms MarkObjects: 2.472300 ms  DeleteObjects: 0.367900 ms)
 
 AssetImportParameters requested are different than current active one (requested -> active):
   custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
@@ -163,7 +163,198 @@ AssetImportParameters requested are different than current active one (requested
   custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
 ========================================================================
 Received Import Request.
-  Time since last request: 21554.262641 seconds.
-  path: Assets/zwłoki/cadaver_Normal_DirectX.png
-  artifactKey: Guid(6bb3677a97aa48b43bfc5541436a5cee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/zwłoki/cadaver_Normal_DirectX.png using Guid(6bb3677a97aa48b43bfc5541436a5cee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '937fe6d5c368f16a5ee0fbb6465be5be') in 0.188299 seconds 
+  Time since last request: 29549.368443 seconds.
+  path: Assets/Materials/biurkoo.mat
+  artifactKey: Guid(f6149b393518f154bb99dc112343c5ec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/biurkoo.mat using Guid(f6149b393518f154bb99dc112343c5ec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '461356452bbde11cd5556a81859fe864') in 0.147217 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000028 seconds.
+  path: Assets/Materials/textures/incline bench.mat
+  artifactKey: Guid(6d74e3112ba85d24c9897201f6276427) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/textures/incline bench.mat using Guid(6d74e3112ba85d24c9897201f6276427) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '31030d65e8baf45467f0b596de1f1c74') in 0.050026 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 2.142278 seconds.
+  path: Assets/Materials/Roof.mat
+  artifactKey: Guid(57b21f101f58e8a43b1e2a6896b2c9f5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Roof.mat using Guid(57b21f101f58e8a43b1e2a6896b2c9f5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6d66b5a6d986e4f7a6b879ec27662a16') in 0.026735 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000183 seconds.
+  path: Assets/Materials/scianowy.022.mat
+  artifactKey: Guid(a1aa7891a9100dd44a7cc0f97553e7f8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/scianowy.022.mat using Guid(a1aa7891a9100dd44a7cc0f97553e7f8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aee0a5f66cb54d33bca4dc4779e001b4') in 0.048479 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000024 seconds.
+  path: Assets/Materials/scianowy.025.mat
+  artifactKey: Guid(195c5284168cb5949a714f0c6f33f3dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/scianowy.025.mat using Guid(195c5284168cb5949a714f0c6f33f3dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8ccbc1b52d3e67a52ddcc20663c2fcef') in 0.049912 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000434 seconds.
+  path: Assets/Materials/scianowy.021.mat
+  artifactKey: Guid(7592d77bc13474b4f8f833f764fc6f97) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/scianowy.021.mat using Guid(7592d77bc13474b4f8f833f764fc6f97) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '430f2c1adaca95b0454a620c180d74dc') in 0.035925 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000020 seconds.
+  path: Assets/Materials/scianowy.023.mat
+  artifactKey: Guid(9302141b0e5e3e146be6a307db80b67f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/scianowy.023.mat using Guid(9302141b0e5e3e146be6a307db80b67f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'afd3f299aa0a3c5772eb832f33de9b5b') in 0.037065 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000018 seconds.
+  path: Assets/Materials/scianowy.036.mat
+  artifactKey: Guid(09afcf3e22d74c2499b8b0db4164d558) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/scianowy.036.mat using Guid(09afcf3e22d74c2499b8b0db4164d558) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1a81f7226977eca8db51b4fb3a8585a2') in 0.031429 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000019 seconds.
+  path: Assets/Materials/scianowy.004.mat
+  artifactKey: Guid(e9e0dc991a935ee4e982d648a4bc9173) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/scianowy.004.mat using Guid(e9e0dc991a935ee4e982d648a4bc9173) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a4fc7543784d8ea2aae2e3f55bc352d6') in 0.032953 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000680 seconds.
+  path: Assets/Materials/scianowy.033.mat
+  artifactKey: Guid(2a52941bc73d51e4ebb9a2cef1c49c53) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/scianowy.033.mat using Guid(2a52941bc73d51e4ebb9a2cef1c49c53) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4f1f09706610cb119333ed24d2b690ef') in 0.037911 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/Materials/Room.mat
+  artifactKey: Guid(381b4095f6d085241a120432cac8bf3c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Room.mat using Guid(381b4095f6d085241a120432cac8bf3c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '79ca4ddf0db185ed41f9d4c7432963c0') in 0.034825 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000236 seconds.
+  path: Assets/Materials/tabla.mat
+  artifactKey: Guid(ddde92561f145be4a8b9a5b58da57380) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/tabla.mat using Guid(ddde92561f145be4a8b9a5b58da57380) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '11f35a2cf8abffe047675f0f3f56ed65') in 0.025036 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000026 seconds.
+  path: Assets/Materials/vela.002.mat
+  artifactKey: Guid(530140f80b1d7df43b931ea02823a9b3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/vela.002.mat using Guid(530140f80b1d7df43b931ea02823a9b3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1ac5320a9ff971f83f4fc7e8fb7d0483') in 0.029075 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000019 seconds.
+  path: Assets/Materials/Window_material.mat
+  artifactKey: Guid(201d43427889d05489c4831f9f7b08ec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Window_material.mat using Guid(201d43427889d05489c4831f9f7b08ec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cee7118a721521ff2edcac19a0867c13') in 0.036342 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000026 seconds.
+  path: Assets/Materials/wheelchair_old.001.mat
+  artifactKey: Guid(1a8286232b0d1b543bd690d46bbd047a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/wheelchair_old.001.mat using Guid(1a8286232b0d1b543bd690d46bbd047a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '17f0c299e80f3a5c53910e0dfe784306') in 0.023444 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000016 seconds.
+  path: Assets/Materials/Victorian Paintings.003.mat
+  artifactKey: Guid(ef0f92ded9c8a154c874540b4d00c69a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Victorian Paintings.003.mat using Guid(ef0f92ded9c8a154c874540b4d00c69a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0eb9cb97a39bd9b42f0b84443d775f1d') in 0.039603 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000021 seconds.
+  path: Assets/Materials/skeletonZombie_Material1.mat
+  artifactKey: Guid(f7cfba0307acbbe42bbae9b04eb76776) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/skeletonZombie_Material1.mat using Guid(f7cfba0307acbbe42bbae9b04eb76776) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '17df7155fc1b1e76c87b9990a709741a') in 0.143195 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000413 seconds.
+  path: Assets/Materials/scianowy.009.mat
+  artifactKey: Guid(72be504e0a3a92b4f8d91eba7b477148) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/scianowy.009.mat using Guid(72be504e0a3a92b4f8d91eba7b477148) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e14ac78cb4fe1d8f925bdbaec68f3c35') in 0.027242 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000026 seconds.
+  path: Assets/Materials/scianowy.016.mat
+  artifactKey: Guid(92dec520565c1494cb4c6eaa0216312d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/scianowy.016.mat using Guid(92dec520565c1494cb4c6eaa0216312d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '98bc6817010260b4d2e8d4a95c93b0e9') in 0.034884 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000333 seconds.
+  path: Assets/Materials/scianowy.012.mat
+  artifactKey: Guid(4e27731c241d6fb4fbfc1825998fe00a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/scianowy.012.mat using Guid(4e27731c241d6fb4fbfc1825998fe00a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '44713464ff02b77fd0ca5cdf087a593f') in 0.045973 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000147 seconds.
+  path: Assets/Materials/Victorian Paintings.009.mat
+  artifactKey: Guid(3536d8b6386e35d45a50ee465c35ec95) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Victorian Paintings.009.mat using Guid(3536d8b6386e35d45a50ee465c35ec95) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '21f5a71aacf07db1a156c36cfb6b1eed') in 0.027404 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000020 seconds.
+  path: Assets/Materials/scianowy.029.mat
+  artifactKey: Guid(1ea0886594e9f13489834d939ea01d9f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/scianowy.029.mat using Guid(1ea0886594e9f13489834d939ea01d9f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2305fc9c715b626f0855d5a773de9c53') in 0.045422 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000024 seconds.
+  path: Assets/Materials/scianowy.031.mat
+  artifactKey: Guid(b291e78fa25ce60488a2de6d1dc60b13) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/scianowy.031.mat using Guid(b291e78fa25ce60488a2de6d1dc60b13) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2b0d40b6711eba2004697308a6c50da0') in 0.021734 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000030 seconds.
+  path: Assets/Materials/wheelchair_old.mat
+  artifactKey: Guid(f3dda01f38999b145b5c28af13f69a0f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/wheelchair_old.mat using Guid(f3dda01f38999b145b5c28af13f69a0f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9d8d0016f381f255de93b2e24494ba5b') in 0.031946 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000173 seconds.
+  path: Assets/Materials/vela.001.mat
+  artifactKey: Guid(cb7ce02f4047a48499a2d09b7968890f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/vela.001.mat using Guid(cb7ce02f4047a48499a2d09b7968890f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd78a6788a8d2b6b255b876c8853d7562') in 0.042590 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000044 seconds.
+  path: Assets/Materials/Victorian Paintings.005.mat
+  artifactKey: Guid(f2a2999709b6e4c48b02b8cd76d961d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Victorian Paintings.005.mat using Guid(f2a2999709b6e4c48b02b8cd76d961d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4a6758f40691e36c904d9831948a836a') in 0.026999 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000050 seconds.
+  path: Assets/Materials/scianowy.002.mat
+  artifactKey: Guid(bc156894454c64d4d893992cd7f2b1c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/scianowy.002.mat using Guid(bc156894454c64d4d893992cd7f2b1c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f85a2b9b633c15fbca149f366a44f907') in 0.045365 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000068 seconds.
+  path: Assets/Materials/scianowy.018.mat
+  artifactKey: Guid(23dc4db9c956f4746b45c72d3e4d5227) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/scianowy.018.mat using Guid(23dc4db9c956f4746b45c72d3e4d5227) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3df2b7bb254e527c3145c33045e7e766') in 0.042042 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000020 seconds.
+  path: Assets/Materials/Victorian Paintings.008.mat
+  artifactKey: Guid(476f6d2bd24f94a449c00707e48c4d39) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Victorian Paintings.008.mat using Guid(476f6d2bd24f94a449c00707e48c4d39) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '05040de08e3bf0b0f2881b328bf7fc1d') in 0.027205 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000029 seconds.
+  path: Assets/Materials/WoodenBox.mat
+  artifactKey: Guid(ab1a7249d9ad27e48af8768d086d1c68) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/WoodenBox.mat using Guid(ab1a7249d9ad27e48af8768d086d1c68) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6e0834fe05211e8c6e18a7d6110c6af0') in 0.022049 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000017 seconds.
+  path: Assets/Materials/vela.003.mat
+  artifactKey: Guid(584c03c72887f9141a3b5cfeb1cd3ec7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/vela.003.mat using Guid(584c03c72887f9141a3b5cfeb1cd3ec7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e15082dc61deaff0b748a5bfdeb96d4f') in 0.026326 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.001811 seconds.
+  path: Assets/Materials/Victorian Paintings.011.mat
+  artifactKey: Guid(55927e23e15e5df458971512f2ba5501) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Victorian Paintings.011.mat using Guid(55927e23e15e5df458971512f2ba5501) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd7171213d881c669806b26b2b5158422') in 0.024406 seconds 
+Editor requested this worker to shutdown with reason: Scaling down because of idle timeout
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
+AssetImportWorker is now disconnected from the server
+Process exiting
+Exiting without the bug reporter. Application will terminate with return code 0
